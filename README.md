@@ -1,6 +1,14 @@
+
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=240&text=hskim%20:%20Hyeonsu%20Kim&animation=&fontColor=ffffff&fontSize=60" />
     </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝: paper acceptance  </h2> <br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> asdasd </div> 
+    </div>
+
+    
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
