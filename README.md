@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper & award </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Multi-Exit Faster R-CNN(MEF): An Adaptive Multi-Exit Neural Network for Time-Varying Computing Resources </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244.</div>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">  </div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> . </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🏆 자동차부품산업진흥재단 미래자동차산업 아이디어 공모전 "장려상" </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템 </div> 
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 내용이 들어갑니다. </div> 
