@@ -6,6 +6,9 @@
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Multi-Exit Faster R-CNN(MEF): An Adaptive Multi-Exit Neural Network for Time-Varying Computing Resources </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244.</div>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> ICT Express (2024).</div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 1090-1091.</div>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
