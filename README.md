@@ -2,12 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=fdc158&height=240&text=hskim%20:%20Hyeonsu%20Kim&animation=&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper & award </h2>  
-        
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper & award </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 내용이 들어갑니다. </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 13px; text-align: center; color: #282d33;"> 22내용이 들어갑니다. </div> 
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 내용이 들어갑니다. </div> 
-        
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
