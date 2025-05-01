@@ -19,7 +19,7 @@
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템 </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🏆 제19회 전국대학생 증권파생상품 경시대회 "입상" </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> CNN과 POMDP 기반 강화 학습을 통한 기술적 분석의 가치 및 가능성 연구(https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm) </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33; src="https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm""> CNN과 POMDP 기반 강화 학습을 통한 기술적 분석의 가치 및 가능성 연구 </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🏆 제1회 창의혁신 프로젝트 공모전 "대상" </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> CNN을 활용한 오목 로봇 제작 </div> 
