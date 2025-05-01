@@ -9,7 +9,9 @@
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 🏆 2024년도 반도체 전공트랙사업 성과발표회 "금상" </div> 
+        <a href="https://github.com/GooDongWoo/branchy_fast_r_cnn_net" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> Multi Exit Faster R-CNN under resource constraints </div> 
+        </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
         <a href="https://www.sciencedirect.com/science/article/pii/S2405959524000626" target="_blank">
