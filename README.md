@@ -4,7 +4,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper & award </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Multi-Exit Faster R-CNN(MEF): An Adaptive Multi-Exit Neural Network for Time-Varying Computing Resources </div> 
-        <a href="https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm" target="_blank">
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12077539" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244.</div>
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
