@@ -5,7 +5,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper & award </h2> 
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Multi-Exit Faster R-CNN(MEF): An Adaptive Multi-Exit Neural Network for Time-Varying Computing Resources </div> 
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12077539" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244. (KCI, SCOPUS)</div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244. (KCI, SCOPUS) </div>
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 2024년도 반도체 전공트랙사업 성과발표회 "금상" </div> 
@@ -15,7 +15,7 @@
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
         <a href="https://www.sciencedirect.com/science/article/pii/S2405959524000626" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> ICT Express (2024).</div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> ICT Express 10.4 (2024): 774-785. (KCI, SCOPUS) </div>
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
