@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=fdc158&height=240&text=hskim%20:%20Hyeonsu%20Kim&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=fdc158&height=180&text=hskim%20:%20Hyeonsu%20Kim&animation=&fontColor=ffffff&fontSize=40" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper & 🏆award </h2> 
