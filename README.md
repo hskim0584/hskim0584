@@ -13,12 +13,12 @@
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> Multi Exit Faster R-CNN under resource constraints </div> 
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
         <a href="https://www.sciencedirect.com/science/article/pii/S2405959524000626" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> ICT Express 10.4 (2024): 774-785. (KCI, SCOPUS) </div>
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11227755" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 1090-1091.</div>
         </a>
@@ -28,7 +28,7 @@
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 📝 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11667616" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 983-984.</div>
         </a>
