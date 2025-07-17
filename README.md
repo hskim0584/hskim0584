@@ -48,7 +48,7 @@
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. RPT-202561-0000001, 출원인 : 경희대학교 산학협력단 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 제19회 전국대학생 증권파생상품 경시대회 "입상" </div> 
         <a href="https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm" target="_blank">
