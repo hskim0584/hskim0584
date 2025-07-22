@@ -8,6 +8,9 @@
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244. (KCI, SCOPUS) </div>
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 2024년도 반도체 전공트랙사업 성과발표회 "금상" </div> 
         <a href="https://github.com/GooDongWoo/branchy_fast_r_cnn_net" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> Multi Exit Faster R-CNN under resource constraints </div> 
@@ -46,9 +49,6 @@
         <a href="https://github.com/hskim0584/branchy_net_cnn_Automatic_leftturn_sidemirror" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템 </div> 
         </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 제19회 전국대학생 증권파생상품 경시대회 "입상" </div> 
         <a href="https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm" target="_blank">
