@@ -7,60 +7,59 @@
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12077539" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244. (KCI, SCOPUS) </div>
         </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 2024년도 반도체 전공트랙사업 성과발표회 "금상" </div> 
         <a href="https://github.com/GooDongWoo/branchy_fast_r_cnn_net" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> Multi Exit Faster R-CNN under resource constraints </div> 
-        </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
-        <a href="https://www.sciencedirect.com/science/article/pii/S2405959524000626" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> ICT Express 10.4 (2024): 774-785. (KCI, SCOPUS) </div>
-        </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
-        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11227755" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 1090-1091.</div>
-        </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 학술대회 학부 우수논문 "최우수상" </div>
-        <a href="https://github.com/hskim0584/DQN_Delay-Sensitive_video_streaming_service/tree/main" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
-        </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
-        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11667616" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 983-984.</div>
-        </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 학술대회 학부 우수논문 "장려상" </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 제2회 창의혁신 프로젝트 공모전 "우수상" </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 공간의 제약이 없는 빔 프로젝터</div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 ﻿합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. RPT-2024117-0000004, 출원인 : 경희대학교 산학협력단 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        </a>        
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>        
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 자동차부품산업진흥재단 미래자동차산업 아이디어 공모전 "장려상" </div> 
         <a href="https://github.com/hskim0584/branchy_net_cnn_Automatic_leftturn_sidemirror" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템 </div> 
         </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div>         
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
+        <a href="https://www.sciencedirect.com/science/article/pii/S2405959524000626" target="_blank">
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> ICT Express 10.4 (2024): 774-785. (KCI, SCOPUS) </div>
+        </a>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">  <br> </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11227755" target="_blank">
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 1090-1091.</div>
+        </a>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br> </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 학술대회 학부 우수논문 "최우수상" </div>
+        <a href="https://github.com/hskim0584/DQN_Delay-Sensitive_video_streaming_service/tree/main" target="_blank">
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 딜레이-민감 비디오 스트리밍 서비스를 위한 DQN 알고리즘 연구 </div> 
+        </a>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br> </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
+        <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11667616" target="_blank">
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 983-984.</div>
+        </a>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>  </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 학술대회 학부 우수논문 "장려상" </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 제2회 창의혁신 프로젝트 공모전 "우수상" </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 공간의 제약이 없는 빔 프로젝터</div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 ﻿합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. RPT-2024117-0000004, 출원인 : 경희대학교 산학협력단 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 제19회 전국대학생 증권파생상품 경시대회 "입상" </div> 
         <a href="https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm" target="_blank">
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33; "> CNN과 POMDP 기반 강화 학습을 통한 기술적 분석의 가치 및 가능성 연구 </div>
-        </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33; "> CNN과 POMDP 기반 강화 학습을 통한 기술적 분석의 가치 및 가능성 연구 </div></a>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">  <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 제1회 창의혁신 프로젝트 공모전 "대상" </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> CNN을 활용한 오목 로봇 제작 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">  <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 16회 코드게이트 글로벌 AI아이디어랩 공모전 "입상" </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 영상통화 플랫폼 내의 딥페이크 감지 모델 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   .   </div>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>  </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -69,7 +68,7 @@
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
           </div>
     </div>
     <div align= "center">
@@ -79,6 +78,3 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-
-
-
