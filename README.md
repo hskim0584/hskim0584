@@ -19,7 +19,7 @@
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <h4 style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </h4> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div>         
+        <h4 style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </h4>         
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
         <a href="https://www.sciencedirect.com/science/article/pii/S2405959524000626" target="_blank">
