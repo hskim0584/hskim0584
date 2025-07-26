@@ -18,7 +18,7 @@
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> BranchyNet & CNN 인공지능 신경망 기반의 “우회전 연동 자동 좌향 사이드 미러” 제어 시스템 </div> 
         </a>
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </div> 
+        <h4 style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 우회전 연동 자동 좌향 사이드 미러 </h4> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 10-2025-0096262 (2025-07-16), 출원인 : 경희대학교 산학협력단 </div>         
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 Caching, transcoding, delivery and learning for advanced video streaming services. </div> 
