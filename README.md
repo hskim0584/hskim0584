@@ -73,7 +73,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/bibum_hysu/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=bibum_hysu"> </a>
+    <div align= "center">
          <a href=mailto:nan111nan78@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:nan111nan78@gamil.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
