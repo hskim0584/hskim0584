@@ -3,6 +3,18 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 paper  &  🏆award  &  💡patent <br/> 📝 4     🏆 8     💡 2 </h2> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>  </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 학술대회 학부 우수논문 "장려상" </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 제2회 창의혁신 프로젝트 공모전 "우수상" </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 공간의 제약이 없는 빔 프로젝터</div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
+        <a href="https://doi.org/10.8080/1020240069247" target="_blank">
+        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 ﻿합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
+        </a>
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. 1020240069247(2024-05-28), 출원인 : 경희대학교 산학협력단 </div> 
+        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗📝 Multi-Exit Faster R-CNN(MEF): An Adaptive Multi-Exit Neural Network for Time-Varying Computing Resources </div> 
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12077539" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> J-KICS 50.2 (2025): 234-244. (KCI, SCOPUS) </div>
@@ -40,15 +52,6 @@
         <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11667616" target="_blank">
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 한국통신학회 학술대회논문집 (2023): 983-984.</div>
         </a>
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>  </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 학술대회 학부 우수논문 "장려상" </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️🏆 제2회 창의혁신 프로젝트 공모전 "우수상" </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> 공간의 제약이 없는 빔 프로젝터</div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
-        <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ↪️💡 ﻿합성곱 신경망 기반 비평면에서의 빔 프로젝터 왜곡 보정 기술 </div> 
-        <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;"> NO. RPT-2024117-0000004, 출원인 : 경희대학교 산학협력단 </div> 
         <div style="border-bottom: 1px solid #d8dee4; font-size: 15px; text-align: center; color: #282d33;">   <br>   </div>
         <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> ❗🏆 제19회 전국대학생 증권파생상품 경시대회 "입상" </div> 
         <a href="https://github.com/hskim0584/DQN_based_BTC_Trading_Algorithm" target="_blank">
